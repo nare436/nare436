@@ -1,198 +1,257 @@
-::: {align="center"}
-# 👋 Hi, I'm Narendra Prajapat
+<div align="center">
 
-### Full-Stack Developer • GenAI Enthusiast • Problem Solver
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=NARE436&fontSize=55&fontAlignY=35&animation=fadeIn" width="100%"/>
 
-```{=html}
+Narendra Prajapat
+
+Full-Stack Developer · GenAI Explorer · Problem Solver
+
 <p>
-```
-`<a href="https://github.com/nare436">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-nare436-181717?style=for-the-badge&logo=github" alt="GitHub"/>`{=html}
-`</a>`{=html} `<a href="https://leetcode.com/u/narendrap436/">`{=html}
-`<img src="https://img.shields.io/badge/LeetCode-1648-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>`{=html}
-`</a>`{=html} `<a href="https://codeforces.com/profile/nare436">`{=html}
-`<img src="https://img.shields.io/badge/Codeforces-946-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>`{=html}
-`</a>`{=html}
-```{=html}
+  <a href="https://github.com/nare436"><img src="https://img.shields.io/badge/GitHub-nare436-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://leetcode.com/u/narendrap436/"><img src="https://img.shields.io/badge/LeetCode-1648-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/nare436"><img src="https://img.shields.io/badge/Codeforces-946-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/narendra-prajapat-27488a343"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 </p>
-```
-```{=html}
-<p>
-```
-`<img src="https://komarev.com/ghpvc/?username=nare436&style=for-the-badge&color=blueviolet" alt="Profile views"/>`{=html}
-```{=html}
-</p>
-```
-:::
 
-------------------------------------------------------------------------
+</div>
 
-## 🚀 About Me
+👨‍💻 About Me
 
-I'm a developer who enjoys building **practical web applications**,
-exploring **Generative AI**, and solving **Data Structures &
-Algorithms** problems.
+I build things that solve real problems.
 
--   💻 Building full-stack applications with the **MERN stack**
--   🤖 Exploring **LLMs, RAG, NLP, and AI-powered applications**
--   🧠 Solved **700+ coding problems** across competitive programming
-    platforms
--   🔐 Interested in secure authentication, APIs, databases, and
-    scalable application design
--   🎨 Lead Designer at **SAE Club MNNIT** and Graphic Designer at
-    **Electronics Society MNNIT**
--   🌱 Always learning, building, and experimenting with new
-    technologies
+→ Full-stack web applications
+→ GenAI / LLM / RAG applications
+→ REST APIs & database-backed systems
+→ DSA & competitive programming
+→ UI/visual design
 
-------------------------------------------------------------------------
+🔭 Currently focused on Full-Stack Development + Generative AI
 
-## 🛠️ Tech Stack
+🤖 Interested in LLMs, RAG, NLP, AI applications & prompt engineering
 
-### Languages
+🧠 700+ coding problems solved across LeetCode, Codeforces & GeeksforGeeks
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+🎨 Lead Designer at SAE Club MNNIT
 
-### Web & Backend
+⚡ Graphic Designer at Electronics Society MNNIT
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+🛠️ I like turning ideas into working products
 
-### AI / GenAI
+⚙️ What I Work With
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Hugging
-Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat-square)
+<table>
+<tr>
+<td valign="top" width="50%">
 
-### Databases & Tools
+💻 Development
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-------------------------------------------------------------------------
 
-## 💡 Featured Projects
 
-### 🔗 MentorConnect
 
-**Mentorship & Technical Task Management Platform**
 
-A role-based mentor--student collaboration platform designed around task
-management, project tracking, evaluation, and community interaction.
 
-**Highlights** - 🔐 MNNIT email-domain restriction with Google
-Authentication - ✉️ OTP-based email verification using Nodemailer - 📋
-Mentor-driven task assignment and evaluation - 🐙 GitHub project
-tracking - 📊 Automated scoring and evaluation workflow - 👥 Team
-support and interactive community features
 
-**Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Firebase` `JWT`
-`REST APIs` `Git/GitHub`
 
-------------------------------------------------------------------------
 
-### 🤖 PaperPilot
 
-**RAG-based Research Paper Q&A Platform**
+</td>
+<td valign="top" width="50%">
 
-An AI-powered research assistant that lets users upload research papers
-and interact with them using document-grounded question answering and
-summarization.
+🤖 AI & Data
 
-**RAG Pipeline**
 
-`PDF → Parsing → Chunking → Embeddings → Vector Store → Semantic Retrieval → LLM Response`
 
-**Highlights** - 📄 PDF upload and document processing - 🔎 Semantic
-retrieval using vector search - 🧠 Context-aware LLM responses - 📚
-Source-aware research paper Q&A - 📝 Automated paper summarization - ⚡
-FastAPI backend with React/Vite chat interface
 
-**Stack:** `Python` `FastAPI` `React.js` `LangChain` `ChromaDB`
-`HuggingFace` `Groq` `RAG` `NLP`
 
-------------------------------------------------------------------------
 
-## 🧠 Problem Solving
 
-> **700+ coding problems solved** across LeetCode, Codeforces, and
-> GeeksforGeeks.
 
-I enjoy working on: - Data Structures & Algorithms - Problem solving and
-optimization - Competitive programming - Algorithmic thinking
 
-### Coding Profiles
 
-  ----------------------------------------------------------------------------------------------------
-  Platform                            Profile
-  ----------------------------------- ----------------------------------------------------------------
-  🟠 LeetCode                         [narendrap436](https://leetcode.com/u/narendrap436/)
 
-  🔵 Codeforces                       [nare436](https://codeforces.com/profile/nare436)
+</td>
+</tr>
+</table>
 
-  🟢 GeeksforGeeks                    [prajapaxg8d](https://www.geeksforgeeks.org/user/prajapaxg8d/)
-  ----------------------------------------------------------------------------------------------------
+Tools: Git · GitHub · VS Code · Firebase · Postman · Vercel · JWT · REST APIs
 
-------------------------------------------------------------------------
+🚀 Featured Projects
 
-## 🎨 Leadership & Creative Work
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Lead Designer --- SAE Club MNNIT**\
-*Jan 2025 -- Present*
+🔗 MentorConnect
 
-**Graphic Designer --- Electronics Society MNNIT**\
-*Nov 2025 -- Present*
+Mentorship & Technical Task Management Platform
 
-I enjoy combining technology with visual communication, from creating
-graphics and posters to contributing to technical and innovation-driven
-initiatives.
+A role-based platform connecting mentors and students through tasks, project tracking, evaluation and collaboration.
 
-------------------------------------------------------------------------
+Built with
 
-## 🏆 Achievements
+React.js Node.js Express.js MongoDB
+Firebase JWT REST APIs
 
--   🧩 Solved **700+ coding problems** across major coding platforms
--   📜 Earned a **JavaScript Certificate from GeeksforGeeks**
--   💡 Participated in the **Sankalp India** event and technical
-    activities
--   🤝 Completed the **Soft Skills Training Program conducted by IICS
-    Jodhpur**
+Highlights
 
-------------------------------------------------------------------------
+🔐 Secure role-based authentication
 
-## 📫 Connect With Me
+✉️ OTP verification with Nodemailer
 
-```{=html}
-<p align="center">
-```
-`<a href="mailto:narendraprajapat361@gmail.com">`{=html}
-`<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>`{=html}
-`</a>`{=html}
-`<a href="https://www.linkedin.com/in/narendra-prajapat-27488a343">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>`{=html}
-`</a>`{=html} `<a href="https://github.com/nare436">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>`{=html}
-`</a>`{=html}
-```{=html}
-</p>
-```
+📋 Task assignment & evaluation
 
-------------------------------------------------------------------------
+🐙 GitHub project tracking
 
-::: {align="center"}
-### ⚡ Build. Break. Learn. Repeat.
+📊 Automated scoring
 
-*Thanks for visiting my profile!*
-:::
+👥 Team & community features
+
+→ View Repository
+
+</td>
+
+<td width="50%" valign="top">
+
+🤖 PaperPilot
+
+RAG-based Research Paper Q&A Platform
+
+An AI research assistant for asking questions about uploaded papers and generating document-grounded answers and summaries.
+
+Built with
+
+Python FastAPI React
+LangChain ChromaDB HuggingFace Groq
+
+Pipeline
+
+PDF → Chunk → Embed → Retrieve → Generate
+
+Highlights
+
+📄 PDF processing
+
+🔎 Semantic retrieval
+
+🧠 Context-aware answers
+
+📚 Source-aware Q&A
+
+📝 Paper summarization
+
+⚡ FastAPI + React/Vite
+
+→ View Repository
+
+</td>
+</tr>
+</table>
+
+🧩 Other Projects
+
+Project
+
+What it does
+
+Stack
+
+🍽️ Messify
+
+Hostel mess management platform
+
+MERN Redux JWT Razorpay
+
+🐕 Breed Classifier
+
+Image-based breed classification project
+
+JavaScript
+
+→ Explore all repositories
+
+🧠 Problem Solving
+
+<div align="center">
+
+700+ Problems Solved
+
+LeetCode · Codeforces · GeeksforGeeks
+
+<a href="https://leetcode.com/u/narendrap436/"><img src="https://img.shields.io/badge/LeetCode-narendrap436-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/nare436"><img src="https://img.shields.io/badge/Codeforces-nare436-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+<a href="https://www.geeksforgeeks.org/user/prajapaxg8d/"><img src="https://img.shields.io/badge/GeeksforGeeks-prajapaxg8d-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+
+</div>
+
+🎨 Leadership & Creative Work
+
+Lead Designer — SAE Club MNNIT
+
+Jan 2025 – Present
+
+Graphic Designer — Electronics Society MNNIT
+
+Nov 2025 – Present
+
+I enjoy combining technology + visual design, contributing to posters, graphics, events and innovation-driven initiatives.
+
+🏆 Highlights
+
+🧠 700+ coding problems solved
+
+📜 JavaScript Certificate — GeeksforGeeks
+
+💡 Participated in Sankalp India
+
+🤝 Completed Soft Skills Training Program — IICS Jodhpur
+
+🎨 Active in technical & creative student communities
+
+📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nare436&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nare436&layout=compact&hide_border=true&langs_count=8" height="165"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=nare436&hide_border=true" width="70%"/>
+
+</div>
+
+📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nare436&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:narendraprajapat361@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/narendra-prajapat-27488a343">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/narendra_prajapat436">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+⭐ If you find something useful here, consider giving it a star!
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" width="100%"/>
+
+</div>
